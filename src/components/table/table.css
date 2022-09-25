@@ -54,7 +54,7 @@ td {
 }
 
 .table--trAvailable:hover {
-    background-color: #eeeeee;
+    background-color: #eeeeee !important;
 }
 
 .table--trScheduled {
