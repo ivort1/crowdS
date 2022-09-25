@@ -39,8 +39,7 @@
     justify-content: flex-start;
     align-items: center;
 
-    font-size: 1.25rem;
-    font-weight: bold;
+    font-family: "NeueHaasGrotesk-Bold", sans-serif;
     width: 100%;
 }
 
@@ -56,6 +55,8 @@
     flex-direction: column;
     align-items: flex-start;
     gap: 1.5rem;
+
+    font-family: "NeueHaasGrotesk-Regular", sans-serif;
 }
 
 .alert--btn {
@@ -63,6 +64,6 @@
     border-radius: inherit;
     color: #ffffff;
     cursor: pointer;
-    font-weight: bold;
+    font-family: "NeueHaasGrotesk-Bold", sans-serif;
     padding: 0.5rem 2rem;
 }
