@@ -4,6 +4,8 @@ import './table.css';
 import download from "../../images/download.svg";
 
 function Table(props) {
+    console.log("Table has been rendered");
+
     return(
         <table>
             <thead>
